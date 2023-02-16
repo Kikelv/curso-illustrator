@@ -84,6 +84,7 @@ video {
   border: 0;
   font-size: 100%;
   font: inherit;
+  font-family: sans-serif;
   vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -102,6 +103,7 @@ section {
 }
 body {
   line-height: 1;
+  background-color: aliceblue;
 }
 ol,
 ul {
@@ -131,5 +133,21 @@ table {
 
 .galeria img {
   max-width: 400px;
-  padding: 1rem;
+  margin: 0.5%;
+}
+
+header,
+footer {
+  min-height: 200px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 1px;
+}
+h1 {
+  font-size: 36px;
+}
+.logo {
+  max-width: 40px;
 }
