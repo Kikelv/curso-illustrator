@@ -25,6 +25,6 @@ Estructura del proyecto:
 └── package.json
 ```
 
-## 👀 Want to learn more?
+## 👀 Firma
 
 [Enrique Laorden](https://es.linkedin.com/in/enrique-laorden)
